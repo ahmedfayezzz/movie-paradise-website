@@ -1,0 +1,25 @@
+.linkContainer{
+  display: flex;
+  flex-direction: column;
+  margin: 1rem 2.6rem;
+}
+.link{
+  display: block;
+  cursor: pointer;
+  color: var(--silver);
+  font-size: 1.3rem;
+}
+.titleContainer{
+  display: flex;
+  align-items: center;
+  
+}
+.icon{
+  color: var(--orange);
+  font-size: 1.8rem;
+  margin-right: 10px;
+}
+.title{
+  font-size: 2rem;
+  color: var(--white);
+}
